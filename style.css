@@ -1,18 +1,11 @@
 .container{
     margin-bottom: 100px;
-    background-color: white;
-}
-.orange-bg{
-    background-color: #fceae8;
-    border-radius: 10px;
 }
 
 .carousel-item{
     padding: 20px 40px;
 }
-.price{
-    color: #FF136F;
-}
+
 .btn-buy-now{
     background-image: linear-gradient(to top, rgb(77, 74, 75) 0% ,rgb(5, 4, 5) 100%);
     color: #fff;
@@ -21,11 +14,6 @@
     padding: 9px 25px;
     cursor: pointer;
 }
-.cat1, .cat2, .cat3{
-    padding: 10px 20px;
-    border-radius: 10px;
-}
-
 
 #catagories-bg {
     position: relative;
